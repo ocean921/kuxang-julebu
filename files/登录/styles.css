@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u49_img {
+#u54_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:667px;
   height:375px;
 }
-#u49 {
+#u54 {
   border-width:0px;
   position:absolute;
   left:32px;
@@ -28,7 +28,7 @@
   width:667px;
   height:375px;
 }
-#u49_text {
+#u54_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u50_img {
+#u55_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +45,7 @@
   width:315px;
   height:147px;
 }
-#u50 {
+#u55 {
   border-width:0px;
   position:absolute;
   left:198px;
@@ -53,7 +53,7 @@
   width:315px;
   height:147px;
 }
-#u50_text {
+#u55_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -62,7 +62,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u51_img {
+#u56_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -70,7 +70,7 @@
   width:170px;
   height:51px;
 }
-#u51 {
+#u56 {
   border-width:0px;
   position:absolute;
   left:281px;
@@ -78,7 +78,7 @@
   width:170px;
   height:51px;
 }
-#u51_text {
+#u56_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -87,7 +87,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u52_div {
+#u57_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -106,7 +106,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u52 {
+#u57 {
   border-width:0px;
   position:absolute;
   left:338px;
@@ -118,7 +118,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u52_text {
+#u57_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -126,7 +126,7 @@
   width:85px;
   white-space:nowrap;
 }
-#u53_img {
+#u58_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -134,7 +134,7 @@
   width:20px;
   height:20px;
 }
-#u53 {
+#u58 {
   border-width:0px;
   position:absolute;
   left:308px;
@@ -142,15 +142,15 @@
   width:20px;
   height:20px;
 }
-#u53_img.mouseDown {
+#u58_img.mouseDown {
 }
-#u53.mouseDown {
+#u58.mouseDown {
 }
-#u53_img.selected {
+#u58_img.selected {
 }
-#u53.selected {
+#u58.selected {
 }
-#u53_text {
+#u58_text {
   border-width:0px;
   position:absolute;
   left:0px;
