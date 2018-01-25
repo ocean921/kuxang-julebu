@@ -2031,3 +2031,28 @@
   width:37px;
   white-space:nowrap;
 }
+#u335_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:19px;
+  height:20px;
+}
+#u335 {
+  border-width:0px;
+  position:absolute;
+  left:81px;
+  top:37px;
+  width:19px;
+  height:20px;
+}
+#u335_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
